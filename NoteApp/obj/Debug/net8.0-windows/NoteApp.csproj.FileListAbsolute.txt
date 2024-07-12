@@ -1,0 +1,16 @@
+D:\Projects\NoteApp\bin\Debug\net8.0-windows\NoteApp.exe
+D:\Projects\NoteApp\bin\Debug\net8.0-windows\NoteApp.deps.json
+D:\Projects\NoteApp\bin\Debug\net8.0-windows\NoteApp.runtimeconfig.json
+D:\Projects\NoteApp\bin\Debug\net8.0-windows\NoteApp.dll
+D:\Projects\NoteApp\bin\Debug\net8.0-windows\NoteApp.pdb
+D:\Projects\NoteApp\obj\Debug\net8.0-windows\NoteApp.Form1.resources
+D:\Projects\NoteApp\obj\Debug\net8.0-windows\NoteApp.csproj.GenerateResource.cache
+D:\Projects\NoteApp\obj\Debug\net8.0-windows\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NoteApp\obj\Debug\net8.0-windows\NoteApp.AssemblyInfoInputs.cache
+D:\Projects\NoteApp\obj\Debug\net8.0-windows\NoteApp.AssemblyInfo.cs
+D:\Projects\NoteApp\obj\Debug\net8.0-windows\NoteApp.csproj.CoreCompileInputs.cache
+D:\Projects\NoteApp\obj\Debug\net8.0-windows\NoteApp.dll
+D:\Projects\NoteApp\obj\Debug\net8.0-windows\refint\NoteApp.dll
+D:\Projects\NoteApp\obj\Debug\net8.0-windows\NoteApp.pdb
+D:\Projects\NoteApp\obj\Debug\net8.0-windows\NoteApp.genruntimeconfig.cache
+D:\Projects\NoteApp\obj\Debug\net8.0-windows\ref\NoteApp.dll

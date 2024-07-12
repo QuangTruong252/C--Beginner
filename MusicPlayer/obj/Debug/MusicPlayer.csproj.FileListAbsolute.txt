@@ -1,0 +1,15 @@
+D:\Projects\C#_Learn\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Projects\C#_Learn\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Projects\C#_Learn\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Projects\C#_Learn\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Projects\C#_Learn\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\C#_Learn\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+D:\Projects\C#_Learn\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Projects\C#_Learn\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects\C#_Learn\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Projects\C#_Learn\MusicPlayer\obj\Debug\MusicPlayer.MusicPlayer.resources
+D:\Projects\C#_Learn\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Projects\C#_Learn\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Projects\C#_Learn\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Projects\C#_Learn\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Projects\C#_Learn\MusicPlayer\obj\Debug\MusicPlayer.pdb
